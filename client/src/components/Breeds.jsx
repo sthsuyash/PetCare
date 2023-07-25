@@ -59,7 +59,7 @@ const breeds = [
     },
 ];
 
-import PetCard from "./Cards/petCard";
+import PetCard from "../components/Cards/petCard";
 
 export default function Breeds() {
     return (
