@@ -5,37 +5,37 @@ const services = [
     {
         title: "Dog/Cat Grooming",
         description: "We are enhancing our skills, salon, and equipment to meet the challenges of pet grooming.",
-        image: '../assets/services/pet-grooming.png',
+        image: '/services/pet-grooming.png',
         link: '/services/pet-grooming'
     },
     {
         title: "Home Treatment",
         description: "Our goal is to ensure pet welfare through home treatment and prompt client response.",
-        image: "../assets/services/home-treatment.png",
+        image: "/services/home-treatment.png",
         link: '/services/home-treatment'
     },
     {
         title: "Clinical Treatment",
         description: "Our clinic offers professional veterinary care with a focus on disease prevention, diagnosis, and treatment.",
-        image: "../assets/services/clinical-treatment.png",
+        image: "/services/clinical-treatment.png",
         link: '/services/clinical-treatment'
     },
     {
         title: "Puppies Buying & Selling",
         description: "We buy and sell common breed puppies like Golden Retriever, Husky, Pug, etc. 100% guarantee on the breed offered.",
-        image: "../assets/services/puppies-buy-sell.png",
+        image: "/services/puppies-buy-sell.png",
         link: '/services/puppies-buying-selling'
     },
     {
         title: "Dog Training",
         description: "Our team of dog trainers is passionate, dedicated, and has years of professional experience.",
-        image: "../assets/services/dog-training.png",
+        image: "/services/dog-training.png",
         link: '/services/dog-training'
     },
     {
         title: "Dog Mating",
         description: "Quality breeding requires experience and passion. We can arrange and facilitate quality breed mating.",
-        image: "../assets/services/dog-mating.png",
+        image: "/services/dog-mating.png",
         link: '/services/dog-mating'
     }
 ]

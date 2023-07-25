@@ -5,7 +5,7 @@ export default function Shop() {
         <>
             <div
                 className="lg:max-w-[1600px] lg:py-20 lg:px-16 mx-auto text-center space-y-5 lg:min-h-[328px] flex flex-col items-start text-white"
-                style={{ backgroundImage: "url('../assets/shop.png')", backgroundRepeat: 'no-repeat', backgroundSize: 'cover', width: '95%', height: '100%', borderRadius: 24 }}
+                style={{ backgroundImage: "url('/shop.png')", backgroundRepeat: 'no-repeat', backgroundSize: 'cover', width: '95%', height: '100%', borderRadius: 24 }}
             >
                 <p className="font-semibold text-xl font-inter">One More Friend Thousands More Fun!</p>
                 <p className="text-4xl font-black">&quot;Find your furry soulmate at Our Pet Shop.&quot;</p>
