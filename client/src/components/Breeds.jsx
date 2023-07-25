@@ -1,65 +1,64 @@
 import { AiFillRightCircle } from 'react-icons/ai';
+import PetCard from "./Cards/PetCard";
 
 const breeds = [
     {
         name: "Golden Retriever",
-        image: "./src/assets/pets/golden-retriever.png",
+        image: "src/assets/pets/golden-retriever.png",
         link: "/breeds/golden-retriever",
         gender: "Male",
         age: "2 months",
     },
     {
         name: "Doberman",
-        image: "./src/assets/pets/doberman.png",
+        image: "src/assets/pets/doberman.png",
         link: "/breeds/doberman",
         gender: "Male",
         age: "2 months",
     },
     {
         name: "Apso",
-        image: "./src/assets/pets/apso.png",
+        image: "src/assets/pets/apso.png",
         link: "/breeds/apso",
         gender: "Female",
         age: "1 year",
     },
     {
         name: "Chihuahua",
-        image: "./src/assets/pets/chihuahua.png",
+        image: "src/assets/pets/chihuahua.png",
         link: "/breeds/chiuahua",
         gender: "Female",
         age: "1 year",
     },
     {
         name: "Japanese Spitz",
-        image: "./src/assets/pets/japanese-spitz.png",
+        image: "src/assets/pets/japanese-spitz.png",
         link: "/breeds/japanese-spitz",
         gender: "Male",
         age: "2 months",
     },
     {
         name: "German Shepard",
-        image: "./src/assets/pets/german-shepard.png",
+        image: "src/assets/pets/german-shepard.png",
         link: "/breeds/german-shepherd",
         gender: "Male",
         age: "2 months",
     },
     {
         name: "Husky",
-        image: "./src/assets/pets/husky.png",
+        image: "src/assets/pets/husky.png",
         link: "/breeds/husky",
         gender: "Female",
         age: "3 months",
     },
     {
         name: "Pug",
-        image: "./src/assets/pets/pug.png",
+        image: "src/assets/pets/pug.png",
         link: "/breeds/pug",
         gender: "Female",
         age: "4 months",
     },
 ];
-
-import PetCard from "../components/Cards/PetCard";
 
 export default function Breeds() {
     return (
