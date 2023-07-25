@@ -5,19 +5,19 @@ const blogs = [
     {
         'title': 'How to Choose the Right Bully Stick for Your Dog',
         'content': 'Below is an excerpt of porch.com article “ Moving with Pets? We have the Experts advice to do it Properly.',
-        'image': './src/assets/blog/blog1.png',
+        'image': '../assets/blog/blog1.png',
         'link': '/blog/1',
     },
     {
         'title': 'Saving Lives: Animal House Shelter And Downtown Pet Supply',
         'content': 'Below is an excerpt of porch.com article “ Moving with Pets? We have the Experts advice to do it Properly.',
-        'image': './src/assets/blog/blog2.png',
+        'image': '../assets/blog/blog2.png',
         'link': '/blog/2',
     },
     {
         'title': 'Himalayan Yak Chews: 11 Benefits You Need To Know',
         'content': 'Below is an excerpt of porch.com article “ Moving with Pets? We have the Experts advice to do it Properly.',
-        'image': './src/assets/blog/blog3.png',
+        'image': '../assets/blog/blog3.png',
         'link': '/blog/3',
     },
 ];
