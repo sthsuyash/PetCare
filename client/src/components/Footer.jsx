@@ -12,9 +12,9 @@ export default function Footer() {
         <>
             <footer className="lg:max-w-[1600px] lg:py-20 lg:px-16 flex flex-col dark-blue-background text-white mx-auto">
                 {/* upper footer */}
-                <div className="flex flex-row flex-shrink justify-between align-middle">
+                <div className="flex flex-row flex-wrap justify-between align-middle">
                     {/* primary div */}
-                    <div className="flex flex-col w-1/2 text-justify space-y-10">
+                    <div className="flex flex-col flex-wrap w-1/2 text-justify space-y-10">
                         <div className="flex flex-row justify-between align-middle space-x-10">
                             <h2 className="font-bold text-xl w-4/5 text-center">YOUR LOGO HERE</h2>
                             <p className="text-lg">

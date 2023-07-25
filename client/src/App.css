@@ -33,3 +33,7 @@ html {
 .dark-blue-background {
     background-color: var(--color-dark-blue);
 }
+
+.dark-blue-text {
+    color: var(--color-dark-blue);
+}
