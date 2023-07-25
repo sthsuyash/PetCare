@@ -37,3 +37,7 @@ html {
 .dark-blue-text {
     color: var(--color-dark-blue);
 }
+
+.font-helevetica {
+    font-family: 'Helvetica', sans-serif;
+}

@@ -17,7 +17,10 @@ export default function About() {
                         <li>Compassionate veterinary service</li>
                     </ul>
 
-                    <button className="bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 pl-5 pr-2 rounded-full w-fit font-inter text-sm">
+                    <button
+                        className="bg-blue-500 hover:bg-blue-700 text-white font-semibold py-2 pl-5 pr-2 rounded-full w-fit font-inter text-sm"
+                        onClick={() => window.location.href = '/contact'}
+                    >
                         Contact
                         <AiFillRightCircle className="inline-block ml-5 text-2xl text-white " />
                     </button>
