@@ -1,0 +1,17 @@
+{
+  "name": "petcare-server",
+  "version": "1.0.0",
+  "description": "server file for petcare repo",
+  "main": "index.js",
+  "author": "Suyash",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
